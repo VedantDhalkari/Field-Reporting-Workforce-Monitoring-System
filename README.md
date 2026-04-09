@@ -189,7 +189,7 @@ This project is licensed under the [MIT License](LICENSE).
 
 ---
 
-## 👨‍🚀 Maddy's Note
+## 👨‍🚀 ved Note
 
 _"Building software for **students and freshers** because nobody deserves to be ghosted by HR."_
 
